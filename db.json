@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "name": "Emanuel",
+      "email": "ema@mail.com",
+      "phone": "4271990",
+      "company": "ValenteTECH",
+      "id": 1
+    },
+    {
+      "name": "Cintia",
+      "email": "cintia@mail.com",
+      "phone": "3434605777",
+      "company": "CinSoLuna",
+      "id": 2
+    },
+    {
+      "name": "Mauro",
+      "email": "mauro@mail.com",
+      "phone": "254893022",
+      "company": "ColibriAzul",
+      "id": 3
+    },
+    {
+      "name": "Paulina",
+      "email": "pauli_fat@mail.com",
+      "phone": "24333559",
+      "company": "Diseño PLF",
+      "id": 4
+    }
+  ]
+}
